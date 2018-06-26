@@ -1,6 +1,6 @@
 # Showcase: Japanese Predicate-Argument Structure (PAS) analyzer
 
-Showcase is a Pytorch imprementation of the Japanese Predicate-Argument Structure (PAS) analyser presented in the paper of Matsubayashi & Inui (2018) with some improvements. 
+Showcase is a Pytorch implementation of the Japanese Predicate-Argument Structure (PAS) analyser presented in the paper of Matsubayashi & Inui (2018) with some improvements. 
 Given a input sentence, Showcase identifies verbal and nominal predicates in the sentence and detects their nominative (が), accusative (を), and dative (に) case arguments. 
 The output case labels are based on the label definition of the NAIST Text Corpus where case markers in different voices are generalized into the case markers of an active voice.
 
