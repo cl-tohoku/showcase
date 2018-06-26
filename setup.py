@@ -33,7 +33,7 @@ tests_require = requirements['test']
 extras_require = {k: v for k, v in requirements.items() if k != 'install'}
 
 setup(
-    name='showcase',
+    name='showcase-parser',
     version='0.0.1',
     description='Japanese Predicate-Argument Structure Analyzer',
     long_description=readme,
