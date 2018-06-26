@@ -1,0 +1,95 @@
+{
+  "cabocha": {
+    "cabocha_path": "/opt/local/bin/cabocha",
+    "juman_dic_path": "/opt/local/lib/mecab/dic/jumandic",
+    "juman_dep_model_path": "/opt/local/lib/cabocha/model/dep.juman.model",
+    "juman_chunk_model_path": "/opt/local/lib/cabocha/model/chunk.juman.model"
+  },
+  "model": {
+    "embed_dim": 256,
+    "rnn_dim": 256,
+    "pooling_dim": 1024,
+    "rnn_depth": 10
+  },
+  "pred_model_path": {
+    "pred00": "",
+    "pred01": "",
+    "pred02": "",
+    "pred03": "",
+    "pred04": "",
+    "pred05": "",
+    "pred06": "",
+    "pred07": "",
+    "pred08": "",
+    "pred09": ""
+  },
+  "arg_model_path": {
+    "arg00": "",
+    "arg01": "",
+    "arg02": "",
+    "arg03": "",
+    "arg04": "",
+    "arg05": "",
+    "arg06": "",
+    "arg07": "",
+    "arg08": "",
+    "arg09": ""
+  },
+  "word_index_path": "",
+  "pos_index_path": "",
+  "word2vec_word_path": "",
+  "word2vec_pos_path": "",
+  "model_threshold": {
+    "arg00": [
+      0.37,
+      0.41,
+      0.26
+    ],
+    "arg01": [
+      0.37,
+      0.20,
+      0.12
+    ],
+    "arg02": [
+      0.38,
+      0.30,
+      0.24
+    ],
+    "arg03": [
+      0.46,
+      0.34,
+      0.25
+    ],
+    "arg04": [
+      0.37,
+      0.29,
+      0.35
+    ],
+    "arg05": [
+      0.40,
+      0.31,
+      0.33
+    ],
+    "arg06": [
+      0.44,
+      0.40,
+      0.29
+    ],
+    "arg07": [
+      0.42,
+      0.34,
+      0.30
+    ],
+    "arg08": [
+      0.42,
+      0.34,
+      0.17
+    ],
+    "arg09": [
+      0.46,
+      0.34,
+      0.14
+    ]
+  }
+}
+

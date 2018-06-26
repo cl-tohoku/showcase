@@ -1,0 +1,94 @@
+{
+  "cabocha": {
+    "cabocha_path": "/opt/local/bin/cabocha",
+    "juman_dic_path": "/opt/local/lib/mecab/dic/jumandic",
+    "juman_dep_model_path": "/opt/local/lib/cabocha/model/dep.juman.model",
+    "juman_chunk_model_path": "/opt/local/lib/cabocha/model/chunk.juman.model"
+  },
+  "model": {
+    "embed_dim": 256,
+    "rnn_dim": 256,
+    "pooling_dim": 1024,
+    "rnn_depth": 10
+  },
+  "pred_model_path": {
+    "pred00": "/path/to/showcase_models/pred_model_00.h5",
+    "pred01": "/path/to/showcase_models/pred_model_01.h5",
+    "pred02": "/path/to/showcase_models/pred_model_02.h5",
+    "pred03": "/path/to/showcase_models/pred_model_03.h5",
+    "pred04": "/path/to/showcase_models/pred_model_04.h5",
+    "pred05": "/path/to/showcase_models/pred_model_05.h5",
+    "pred06": "/path/to/showcase_models/pred_model_06.h5",
+    "pred07": "/path/to/showcase_models/pred_model_07.h5",
+    "pred08": "/path/to/showcase_models/pred_model_08.h5",
+    "pred09": "/path/to/showcase_models/pred_model_09.h5"
+  },
+  "arg_model_path": {
+    "arg00": "/path/to/showcase_models/arg_model_00.h5",
+    "arg01": "/path/to/showcase_models/arg_model_01.h5",
+    "arg02": "/path/to/showcase_models/arg_model_02.h5",
+    "arg03": "/path/to/showcase_models/arg_model_03.h5",
+    "arg04": "/path/to/showcase_models/arg_model_04.h5",
+    "arg05": "/path/to/showcase_models/arg_model_05.h5",
+    "arg06": "/path/to/showcase_models/arg_model_06.h5",
+    "arg07": "/path/to/showcase_models/arg_model_07.h5",
+    "arg08": "/path/to/showcase_models/arg_model_08.h5",
+    "arg09": "/path/to/showcase_models/arg_model_09.h5"
+  },
+  "word_index_path": "/path/to/showcase_models/word2vec_lemma.vocab",
+  "pos_index_path": "/path/to/showcase_models/word2vec_pos.vocab",
+  "word2vec_word_path": "/path/to/showcase_models/lemma-20-oov_vec-256-jawiki20160901.npz",
+  "word2vec_pos_path": "/path/to/showcase_models/pos_vec-256-jawiki20160901.npz",
+  "model_threshold": {
+    "arg00": [
+      0.37,
+      0.41,
+      0.26
+    ],
+    "arg01": [
+      0.37,
+      0.20,
+      0.12
+    ],
+    "arg02": [
+      0.38,
+      0.30,
+      0.24
+    ],
+    "arg03": [
+      0.46,
+      0.34,
+      0.25
+    ],
+    "arg04": [
+      0.37,
+      0.29,
+      0.35
+    ],
+    "arg05": [
+      0.40,
+      0.31,
+      0.33
+    ],
+    "arg06": [
+      0.44,
+      0.40,
+      0.29
+    ],
+    "arg07": [
+      0.42,
+      0.34,
+      0.30
+    ],
+    "arg08": [
+      0.42,
+      0.34,
+      0.17
+    ],
+    "arg09": [
+      0.46,
+      0.34,
+      0.14
+    ]
+  }
+}
