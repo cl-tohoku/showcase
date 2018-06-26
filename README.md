@@ -6,6 +6,10 @@ The output case labels are based on the label definition of the NAIST Text Corpu
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
+## Demo
+
+http://www.cl.ecei.tohoku.ac.jp/showcase/
+
 ## Usage
 
 ### Pass input as an argument
@@ -81,10 +85,6 @@ TBA
 ### Step3: Convert word2vec
 
 - run `get_vocab_from_word2vec.py` and `convert_word2vec_to_npy.py`
-
-## Demo
-
-http://www.cl.ecei.tohoku.ac.jp/showcase/
 
 ## Citation
 
