@@ -92,3 +92,7 @@ TBA
   year      = {2018},
 }
 ```
+
+## Contributor
+- [Yuichiroh Matsubayashi](http://www.cl.ecei.tohoku.ac.jp/~y-matsu/)
+- [Shun Kiyono](http://www.cl.ecei.tohoku.ac.jp/~kiyono/)
