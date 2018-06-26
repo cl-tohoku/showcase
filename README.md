@@ -12,8 +12,6 @@ http://www.cl.ecei.tohoku.ac.jp/showcase/
 
 ## Usage
 
-### Pass input as an argument
-
 `echo '今日は雨が降る' | showcase`
 
 `cat example.txt | showcase`
