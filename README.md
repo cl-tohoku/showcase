@@ -67,7 +67,7 @@ You may specify path to `config.json` as follows:
 `showcase -c /path/to/config/config.json`
 
 Note that the apporopriate thresholds (hyperparameters) for arguments differ for each model. 
-The thresholds for the providing models are described in the sample config file in each Google Drive directory.  
+The thresholds for the provided models are described in the sample config file in each Google Drive directory.  
 
 ## (Re-)training
 TBA
