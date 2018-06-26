@@ -82,6 +82,10 @@ TBA
 
 - run `get_vocab_from_word2vec.py` and `convert_word2vec_to_npy.py`
 
+## Demo
+
+http://www.cl.ecei.tohoku.ac.jp/showcase/
+
 ## Citation
 
 ```
