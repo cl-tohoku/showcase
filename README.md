@@ -10,7 +10,7 @@ The output case labels are based on the label definition of the NAIST Text Corpu
 
 ### Pass input as an argument
 
--`echo '今日は雨が降る' | showcase`
+`echo '今日は雨が降る' | showcase`
 
 ### Pass input from STDIN
 
