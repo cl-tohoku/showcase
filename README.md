@@ -16,8 +16,6 @@ http://www.cl.ecei.tohoku.ac.jp/showcase/
 
 `echo '今日は雨が降る' | showcase`
 
-### Pass input from STDIN
-
 `cat example.txt | showcase`
 
 ### Input file format
