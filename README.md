@@ -33,7 +33,7 @@ The output case labels are based on the label definition of the NAIST Text Corpu
 
 ### Step 1. Install Showcase
 
-`pip install git+ssh://git@github.com/cl-tohoku/showcase`
+`pip install showcase-parser`
 
 ### Step 2: Download Resources
 
